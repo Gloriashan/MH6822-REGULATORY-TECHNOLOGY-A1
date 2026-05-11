@@ -1,1 +1,4 @@
 # MH6822-REGULATORY-TECHNOLOGY-A1
+NAME: LIU YISHAN
+Matriculation ID: G2505246J
+Email Address: YISHAN002@e.ntu.edu.sg
